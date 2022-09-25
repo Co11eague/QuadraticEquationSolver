@@ -1,8 +1,8 @@
-from tkinter import *
-from tkinter import messagebox
-from math import *
 import re
 import sys
+from math import *
+from tkinter import *
+from tkinter import messagebox
 
 
 # Programa sprendžia kvadratines lygtis, bei iš kai kurių sprendinių sudaro kvadratinę lygtį. Tai pat paaiškinamas sprendimo būdas.
